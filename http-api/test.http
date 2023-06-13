@@ -1,0 +1,3 @@
+### id: 1, status: 200, result_path: test/1.json, result_type: json, namespace: test, run_befor:2
+GET http://jsonplaceholder.typicode.com/users HTTP/1.1
+
